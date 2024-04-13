@@ -15,3 +15,8 @@ Symphonic Code: The game’s audio mirrors its logic; sounds act as auditory cue
 Codex Canopy is more than a game—it’s an interactive allegory for the odyssey of learning to code. The platformer format has been transformed into a narrative of personal and intellectual development, set against the backdrop of an enchanted digital wilderness.
 
 Venture into the Codex Canopy: where the principles of code become pathways to traverse, where each platform is a stepping stone in a grander algorithm, and where the canopy overhead is woven from the very syntax of creativity and logic.
+
+Layout:
+![codexCanopyLayout](https://github.com/sulemanmirza-77/Codex-Canopy/assets/64156254/753dc385-7340-4b1e-a2bb-d24859553830)
+
+
